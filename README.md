@@ -20,7 +20,7 @@ Clone this repository unto your local device.
 
 Double click on [main.py](/main.py) and this should automatically create the GUI window. 
 
-Non-programmers can download the executable [here](/data/Build/Validator.exe) and run the program without having python installed on your computer. The executable runs directly without installation requirements. Double click on executable and run program.
+Non-programmers can download the executable [here](https://github.com/tomiwa-adesanya/email-password-validator-python-gui/raw/master/data/Build/Validator.exe) and run the program without having python installed on your computer. The executable runs directly without installation requirements. Double click on executable and run program.
 
 GUI Shortcuts:
   * `Ctrl+W` to close GUI window.
