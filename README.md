@@ -20,12 +20,14 @@ Clone this repository unto your local device.
 
 Double click on [main.py](/main.py) and this should automatically create the GUI window. 
 
+Non-programmers can download the executable [here](/data/Build/Validator.exe) and run the program without having python installed on your computer. The executable runs directly without installation requirements. Double click on executable and run program.
+
 GUI Shortcuts:
   * `Ctrl+W` to close GUI window.
   * `Ctrl+Alt+C` to clear all textboxes input.
   * `Enter` in password textbox to execute validation operation.
 
-## GUI Window samples
+## GUI Preview
 
 Valid email address and password
 
